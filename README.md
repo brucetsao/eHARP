@@ -8,4 +8,4 @@ eHARP
 本系列的書籍，針對目前學習上的盲點，希望讀者當一位產品駭客，將現有產品的產品透過逆向工程的手法，進而了解核心控制系統之軟硬體，再透過簡單易學的Arduino單晶片與C語言，重新開發出原有產品，進而改進、加強、創新其原有產品固有思維與架構。如此一來，因為學子們進行『重新開發產品』過程之中，可以很有把握的了解自己正在進行什麼，對於學習過程之中，透過實務需求導引著開發過程，可以讓學子們讓實務產出與邏輯化思考產生關連，如此可以一掃過去陰霾，更踏實的進行學習。
 這本書以市面常見的豎琴為主要開發標的，透過紅外線發設接收模組，當成無形的琴弦來演奏豎琴，當為創新電子樂器設計的標的。所以本書要以『Arduino 空氣豎琴設計與開發』來進行產品設計，相信整個研發過程會更加了解。
 
-Arduino 空氣豎琴設計與開發(The Development of a Harp Instrument based on Infrared Strings by Arduino Technology)
+Arduino 空氣豎琴設計與開發(The Development of an Light-sensor-based Harp With Arduino Technology)
